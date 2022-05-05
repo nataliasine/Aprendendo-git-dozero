@@ -2,5 +2,8 @@ git clone url
 git remote add origin url
 git add
 git commit -m "Comentario"
-
+git status
+git push
+git branch
+git checkout
 
