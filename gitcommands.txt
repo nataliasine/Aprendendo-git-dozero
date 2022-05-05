@@ -4,6 +4,7 @@ git add
 git commit -m "Comentario"
 git status
 git push
+git reflog --hard id da versao
 git branch
 git checkout
 
