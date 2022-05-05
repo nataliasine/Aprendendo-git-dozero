@@ -1,3 +1,6 @@
 git clone url
+git remote add origin url
 git add
-git commit
+git commit -m "Comentario"
+
+
