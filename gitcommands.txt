@@ -7,4 +7,6 @@ git push
 git reflog --hard id da versao
 git branch
 git checkout
-
+git pull antes do merge
+git merge na branch principal setando a temporaria
+git push
